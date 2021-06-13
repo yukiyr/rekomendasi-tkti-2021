@@ -63,7 +63,6 @@
 
         <ol>
           <li><a href="index.html">Home</a></li>
-          <li>PO1</li>
         </ol>
         <h2>PO1: Define a Strategic IT Plan </h2>
       </div>
